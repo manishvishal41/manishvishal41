@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MANISH VISHAL !
+=======================================================================================================================================
 
-<!--
-**manishvishal41/manishvishal41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Developer
+-------------------
 
-Here are some ideas to get you started:
+As a passionate student in the field of technology and software development, I am on a continuous journey of learning and growth. My expertise lies in two exciting areas: Front-end development and AR application development using Unity and Vuforia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Tirunelveli , Tamil Nadu , India
+* ✉️  You can contact me at [manishvishal41@gmail.com](mailto:manishvishal41@gmail.com)
+* 🧠  I'm learning React Js.
+* 🤝  I'm open to collaborating on Web and AR Projects.
+* ⚡  I am a Quick Learner.
+
